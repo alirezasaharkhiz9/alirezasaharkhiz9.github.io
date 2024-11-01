@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 // import Cell from '../components/Projects/Cell';
-// import data from '../data/projects';
+/import data from '../data/projects';
 
 const Projects = () => (
   <Main
@@ -18,13 +18,12 @@ const Projects = () => (
           <p>All publications are available in pdf.</p>
         </div>
       </header>
-      {/* {data.map((project) => (
+      { {data.map((project) => (
         <Cell
           data={project}
           key={project.title}
         />
-      ))} */}
-      <p>Coming soon.</p>
+      ))} }
     </article>
   </Main>
 );
