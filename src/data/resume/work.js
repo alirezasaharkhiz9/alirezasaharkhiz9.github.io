@@ -11,14 +11,12 @@
  * @property {string|undefined} summary - html/markdown summary of the position
  * @property {string[]} highlights - plain text highlights of the position (bulleted list)
  */
-const work = [
-  {
+const work ={
     name: 'Python Teek',
     position: 'Python Instructor',
     url: 'https://pythonteek.com/',
     startDate: '2024-01-01',
-    summary: 'I’m a Python instructor at PythonTeek, where I teach introductory Python, data science, and machine learning.'
-  }
-];
+    summary: 'I’m a Python instructor at PythonTeek, where I teach introductory Python, data science, and machine learning.',
+};
 
 export default work;
