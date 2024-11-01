@@ -1,28 +1,8 @@
 const skills = [
   {
     title: 'PostgreSQL/SQL',
-    competency: 4,
+    competency: 3,
     category: ['Databases', 'Languages', 'Data Science'],
-  },
-  {
-    title: 'Web Scraping',
-    competency: 4,
-    category: ['Data Science', 'Python', 'R'],
-  },
-  {
-    title: 'FastAPI',
-    competency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Git',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
-    title: 'Docker',
-    competency: 1,
-    category: ['Tools', 'Data Science'],
   },
   {
     title: 'Numpy',
@@ -31,11 +11,16 @@ const skills = [
   },
   {
     title: 'Deep Learning with Tensorflow + Keras',
-    competency: 5,
+    competency: 4,
     category: ['Data Science', 'Machine Learning', 'Python'],
   },
   {
     title: 'Deep Learning with PyTorch',
+    competency: 4,
+    category: ['Data Science', 'Machine Learning', 'Python'],
+  },
+  {
+    title: 'Pytorch Lightning',
     competency: 5,
     category: ['Data Science', 'Machine Learning', 'Python'],
   },
@@ -51,7 +36,7 @@ const skills = [
   },
   {
     title: 'Data Visualization',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -61,28 +46,13 @@ const skills = [
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
     title: 'Scikit-Learn',
     competency: 4,
     category: ['Data Science', 'Machine Learning', 'Python'],
-  },
-  {
-    title: 'Spark',
-    competency: 3,
-    category: ['Data Science', 'Machine Learning'],
-  },
-  {
-    title: 'Django',
-    competency: 4,
-    category: ['Data Science', 'Python'],
-  },
-  {
-    title: 'Factor Analysis: CFA and EFA',
-    competency: 4,
-    category: ['Statistics', 'R'],
   },
   {
     title: 'Natural Language Processing (NLP)',
@@ -96,6 +66,16 @@ const skills = [
   },
   {
     title: 'Large Language Model (LLM)',
+    competency: 3,
+    category: ['Data Science', 'Python'],
+  },
+  {
+    title: 'Computer Vision',
+    competency: 5,
+    category: ['Data Science', 'Python'],
+  },
+  {
+    title: 'LangChain',
     competency: 4,
     category: ['Data Science', 'Python'],
   },
