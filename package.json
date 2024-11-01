@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://mariusmercier.github.io/personal-site/",
+  "homepage": "https://alirezasaharkhiz9.github.io/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mariusmercier/personal-site"
+    "url": "https://github.com/alirezasaharkhiz9/alirezasaharkhiz9.github.io.git"
   },
   "engines": {
     "node": ">=16.x"
