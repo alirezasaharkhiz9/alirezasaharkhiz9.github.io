@@ -1,12 +1,9 @@
-I'm an incoming PhD candidate in Experimental Social Psychology at the [Ecole Normale Supérieure](https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)), part of [Paris Sciences & Letters (PSL) University](https://psl.eu/en/university/psl-international-rankings).
+## Academic Background
 
-# Data Science Freelance
+I’m Alireza Saharkhiz, currently studying Statistics at Ferdowsi University of Mashhad. My academic journey is deeply rooted in artificial intelligence, with a focus on computer vision and deep learning. I’m also passionate about machine learning and statistics, fields I've actively explored and developed skills in along the way.
 
-Aside my academic research, I also offer my services as a freelance Data Scientist. For the moment, I do not accept new clients. 
+-----------------------------------------
 
-# What I do
+## Personal Traits
 
-- If you don't find me coding, I'm probably reading. 
-- If not reading, I'm bouldering. 
-- If not bouldering, I'm playing video games. 
-- But if you find me writing, it's a lucky day.
+On a personal level, I am patient and dedicated, always striving to build a life filled with peace and beauty, not only for myself but for those around me. I believe in the power of kindness and aim to live a life that reflects compassion and positivity.
