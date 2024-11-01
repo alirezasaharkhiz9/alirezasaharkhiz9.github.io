@@ -3,23 +3,23 @@ import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
 
-import Education from '../components/Resume/Education';
-import Experience from '../components/Resume/Experience';
+// import Education from '../components/Resume/Education';
+// import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
-import Courses from '../components/Resume/Courses';
+// import Courses from '../components/Resume/Courses';
 // import References from '../components/Resume/References';
 
 // import courses from '../data/resume/courses';
-import degrees from '../data/resume/degrees';
-import work from '../data/resume/work';
+// import degrees from '../data/resume/degrees';
+// import work from '../data/resume/work';
 import { skills, categories } from '../data/resume/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
-  Education: () => <Education data={degrees} />,
-  Experience: () => <Experience data={work} />,
+  // Education: () => <Education data={degrees} />,
+  // Experience: () => <Experience data={work} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
-  Courses: () => <Courses data={courses} />,
+  // Courses: () => <Courses data={courses} />,
   // References: () => <References />,
 };
 
