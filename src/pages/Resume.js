@@ -28,7 +28,7 @@ const sections = {
 const Resume = () => (
   <Main
     title="Resume"
-    description="Marius Mercier's CV"
+    description="Alireza Saharkhiz's CV"
   >
     <article className="post" id="resume">
       <header>
@@ -45,7 +45,7 @@ const Resume = () => (
       <p>
         View my{' '}
         <a
-          href="https://drive.google.com/file/d/1hcAxfOf_gW1r-q4YQqws9siJsLHs6d0G/view"
+          href="https://drive.google.com/file/d/1Y62FO5_ujBlmXcZjJyEBjL9el70cHpkz/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
         >
