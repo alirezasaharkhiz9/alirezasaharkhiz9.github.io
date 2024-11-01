@@ -12,15 +12,14 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.png`} alt="" />
       </Link>
       <header>
-        <h2>Marius Mercier</h2>
-        <p><a href="mailto:mariusmercier1@gmail.com">mariusmercier1@gmail.com</a></p>
+        <h2>Alireza Saharkhiz</h2>
+        <p><a href="mailto:as.alirezasaharkhiz@gmail.com">as.alirezasaharkhiz@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Marius. I am a French PhD Candidate in Experimental Psychology at <a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)">the Ecole Normale Supérieure</a>,
-        part of <a href="https://psl.eu/en/university/psl-international-rankings"> Paris Sciences & Letters (PSL) University </a>.
+      <p>Hi, I am a statistics student at <a href="https://en.um.ac.ir/">Ferdowsi University of Mashhad</a> and a Python instructor.
       </p>
       <ul className="actions">
         <li>
