@@ -8,22 +8,17 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mariusmercier/',
+    link: 'https://github.com/alirezasaharkhiz9',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/marius-m-b06775163/',
+    link: 'https://www.linkedin.com/in/alireza-saharkhiz',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://twitter.com/mariusmercier1',
-    label: 'Twitter',
-    icon: faTwitter,
-  },
-  {
-    link: 'mailto:mariusmercier1@gmail.com',
+    link: 'mailto:as.alirezasaharkhiz@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
