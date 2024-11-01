@@ -1,15 +1,9 @@
 const degrees = [
   {
-    school: 'ENS-PSL',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  },
-  {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Ferdowsi University of Mashhad',
+    degree: 'B.Sc. statistics',
+    link: 'https://en.um.ac.ir/',
+    year: 2024,
   },
 ];
 
