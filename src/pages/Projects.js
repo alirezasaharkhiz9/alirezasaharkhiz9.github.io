@@ -24,7 +24,7 @@ const Projects = () => (
         />
       ))} */}
       <p><a href="https://github.com/alirezasaharkhiz9/undergraduate-project-computer-vision"> Computer Vision Project</a></p>
-      <p><a href="https://github.com/alirezasaharkhiz9/final-project-cs50p"> CS50P Final Project: Automated Machine</a></p>
+      <p><a href="https://github.com/alirezasaharkhiz9/final-project-cs50p"> CS50P Final Project: Automated Machine Learning</a></p>
     </article>
   </Main>
 );
