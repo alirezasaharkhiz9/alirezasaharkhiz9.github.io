@@ -13,7 +13,7 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/alireza-saharkhiz',
+    link: 'https://www.linkedin.com/in/alirezasaharkhiz9',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
